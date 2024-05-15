@@ -1,5 +1,7 @@
 # Hiiiiii, I'm Kondalhari!👋
 
+![hallo](https://tenor.com/view/america-ya-gif-15374592095658975433)
+
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=Kondalhari&label=Profile%20views&color=0e75b6&style=flat" alt="Kondalhari" />
 </p>
