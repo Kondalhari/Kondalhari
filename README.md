@@ -20,9 +20,7 @@
 
 - 🌱 I'm currently learning **Tableu, powerBI, DevOps**
 
-- 🤝 I'm looking for help with [Spotify automation](https://github.com/403CTRLer/spotify)
-
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/kondalhari?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositories](https://github.com/kondalhari?tab=repositories) (all privated sorry)
 
 - 📫 Reach me at **kondalrajm@gmail.com**
 
